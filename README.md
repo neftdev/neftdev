@@ -2,6 +2,8 @@
 <h3 align="center">A passionate full stack developer from Guatemala, Guatemala</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neftxx" alt="neftxx" /> </p>
 
+- 🌱 I’m currently learning React, Golang
+
 - 👨‍💻 All of my projects are available at [https://github.com/NeftXx](https://github.com/NeftXx)
 
 - 💬 Ask me about **javascript, vue, nodejs, docker**
