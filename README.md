@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **berduoronald@gmail.com**
 
-<p align="center"> <img src="./link.gif" alt="link" height="120" width="96"  /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/NeftXx/NeftXx/master/link.gif" alt="link" height="120" width="96"  /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/ronald-berduo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ronald-berduo" height="20" width="20" /></a>
