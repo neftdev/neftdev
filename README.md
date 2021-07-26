@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **javascript, vue, nodejs, docker**
 
-- 📫 How to reach me **berduoronald@gmail.com**
 
 <p align="center"> <img src="https://raw.githubusercontent.com/NeftXx/NeftXx/master/link.gif" alt="link" height="120" width="96"  /> </p>
 
