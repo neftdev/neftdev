@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack developer from Guatemala, Guatemala</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neftxx" alt="neftxx" /> </p>
 
-- 🌱 I’m currently learning React, Golang
+- 🌱 I’m currently learning clean architecture
 
 - 👨‍💻 All of my projects are available at [https://github.com/NeftXx](https://github.com/NeftXx)
 
-- 💬 Ask me about **javascript, vue, nodejs, docker**
+- 💬 Ask me about **javascript, typescript, react, nodejs, docker**
 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/NeftXx/NeftXx/master/link.gif" alt="link" height="120" width="96"  /> </p>
