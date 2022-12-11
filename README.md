@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning clean architecture
 
-- 👨‍💻 All of my projects are available at [https://github.com/NeftXx](https://github.com/NeftXx)
+- 👨‍💻 All of my projects are available at [https://github.com/neftdev](https://github.com/neftdev)
 
 - 💬 Ask me about **javascript, typescript, react, nodejs, docker**
 
